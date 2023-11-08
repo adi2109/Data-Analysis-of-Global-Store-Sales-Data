@@ -1,4 +1,4 @@
-# DataAnalysis
+# Data-Analysis-of-Global-Store-Sales-Data
 
 PROJECT DESCRIPTION
 
